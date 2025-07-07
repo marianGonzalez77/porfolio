@@ -110,7 +110,8 @@
     <p>Inglés – Nivel B2</p>
 
     <div class="mt-4">
-      <a href="Currículum Marián Gonzálezz.pdf" class="btn btn-primary" download>📄 Descargar CV en Pdf</a>
+     <a href="curriculum-marian-gonzalez.pdf" class="btn btn-primary" download>📄 Descargar CV en Pdf</a>
+
     </div>
   </div>
 </body>
